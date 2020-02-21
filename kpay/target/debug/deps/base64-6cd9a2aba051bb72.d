@@ -1,0 +1,12 @@
+c:\Users\jasmi\Desktop\KPay\kpay\target\debug\deps\base64-6cd9a2aba051bb72.rmeta: C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\lib.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\chunked_encoder.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\display.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\tables.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\mod.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\encoder.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\encode.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\decode.rs
+
+c:\Users\jasmi\Desktop\KPay\kpay\target\debug\deps\base64-6cd9a2aba051bb72.d: C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\lib.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\chunked_encoder.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\display.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\tables.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\mod.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\encoder.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\encode.rs C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\decode.rs
+
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\lib.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\chunked_encoder.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\display.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\tables.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\mod.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\encoder.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\encode.rs:
+C:\Users\jasmi\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\decode.rs:
